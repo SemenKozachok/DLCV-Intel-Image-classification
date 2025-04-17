@@ -12,4 +12,5 @@ It uses the dataset [Intel image classification from Kaggle](https://www.kaggle.
 3. Change the "ds_path" variable to your own path to the dataset.
 4. (Optional)Change the structure of the CNN model (cell with class at the end of the notebook).
 5. Run the notebook and get your own results.
+6. (Optional) to save the model and it`s training log, uncomment last cell(torch.save).
   
